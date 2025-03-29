@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "How would you rate your current work-life balance?",
+        "options": [
+          "Excellent - I have plenty of time for personal activities",
+          "Good - Generally balanced with occasional busy periods",
+          "Fair - I often feel somewhat overwhelmed",
+          "Poor - Work regularly interferes with personal life"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which cognitive style best describes your approach to problem-solving?",
+        "options": [
+          "Analytical - I break down problems systematically",
+          "Intuitive - I rely on gut feelings and patterns",
+          "Collaborative - I seek diverse perspectives",
+          "Pragmatic - I focus on practical outcomes"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "If you could instantly master one professional skill, which would you choose?",
+        "options": [
+          "Advanced data analysis and visualization",
+          "Strategic negotiation and influence",
+          "Public speaking and executive presence",
+          "Creative problem-solving and innovation"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What workspace environment do you find most conducive to your productivity?",
+        "options": [
+          "Quiet, private space with minimal distractions",
+          "Collaborative, open environment with team interaction",
+          "Flexible arrangement that varies based on task requirements",
+          "Remote work with digital collaboration tools"
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Which philosophical framework best aligns with your decision-making process?",
+        "options": [
+          "Consequentialism - Judging actions by their outcomes",
+          "Deontology - Following established principles regardless of outcome",
+          "Virtue ethics - Developing character traits that lead to good decisions",
+          "Pragmatism - Choosing what works in practical application"
+        ]
+      }
+    ]
+  }
+  
